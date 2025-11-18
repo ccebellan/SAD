@@ -8,5 +8,6 @@ Max Kaidanov, Carlos Cebellan, Julia Martínez
 4. Resultados de prueba
 
 
-Pruba de conexion Max
+Prueba de conexion Max
 Prueba de conexion Julia
+Prueba de conexión Carlitos
